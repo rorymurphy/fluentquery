@@ -1,0 +1,5 @@
+com\github\rorymurphy\fluentquery\maven\model\ColumnMeta.class
+com\github\rorymurphy\fluentquery\maven\generate\MetaClassGenerator.class
+com\github\rorymurphy\fluentquery\maven\model\EntityMeta.class
+com\github\rorymurphy\fluentquery\maven\mojo\GenerateMetaClassesMojo.class
+com\github\rorymurphy\fluentquery\maven\scan\CompiledEntityScanner.class

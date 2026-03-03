@@ -1,0 +1,3 @@
+com\github\rorymurphy\fluentquery\maven\generate\MetaClassGeneratorTest.class
+com\github\rorymurphy\fluentquery\maven\scan\CompiledEntityScannerTest.class
+com\github\rorymurphy\fluentquery\maven\fixtures\ProductEntity.class
