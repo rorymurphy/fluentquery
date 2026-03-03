@@ -1,6 +1,7 @@
 # Fluentquery
 
 Fluentquery is a Java fluent SQL query library with build-time metaclass generation from `javax.persistence` entities.
+Because it simply generates SQL, it is suitable for use with both R2DBC and JPA.
 
 ## Modules
 
